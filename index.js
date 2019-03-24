@@ -1,4 +1,4 @@
-export class JyBoolean{
+class JyBoolean{
 	constructor(a=1,b=1,enableAprilFools){
 		if(enableAprilFools){
 			if(Math.random() >= 0.5){
@@ -19,3 +19,4 @@ export class JyBoolean{
 		'Is JavaScript JavaScript?'
 	}
 }
+module.exports = JyBoolean;
