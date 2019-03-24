@@ -1,0 +1,24 @@
+{
+  "name": "jiangyi-boolean",
+  "version": "1.0.0",
+  "description": "Type of Random Boolean.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyperbolaStudio/jiangyi-boolean.git"
+  },
+  "keywords": [
+    "Boolean",
+    "Random",
+    "Type"
+  ],
+  "author": "Hyperbola Studio",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/HyperbolaStudio/jiangyi-boolean/issues"
+  },
+  "homepage": "https://github.com/HyperbolaStudio/jiangyi-boolean#readme"
+}
