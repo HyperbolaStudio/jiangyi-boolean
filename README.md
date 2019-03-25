@@ -1,12 +1,12 @@
 # jiangyi-boolean
 
-(Chinese: ??????
+(Chinese: 姜懿布尔型)
 
 Type of Random Boolean.
 
 ## Introduction
 
-JyBoolean has two status: JyTrue(Chinese: ???) and JyFalse(Chinese: ???). These two status will collapse into one by random on calling the Getter `bool`
+JyBoolean has two status: JyTrue(Chinese: 姜懿真) and JyFalse(Chinese: 姜懿假). These two status will collapse into one by random on calling the Getter `bool`
 
 ## Get Started
 
