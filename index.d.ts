@@ -4,5 +4,6 @@ declare module 'jiangyi-boolean'{
 		a:number;
 		b:number;
 		bool:boolean;
+		obviouslyIs:(isTrue:boolean|null) => void;
 	}
 }
