@@ -1,6 +1,6 @@
 {
   "name": "jiangyi-boolean",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Type of Random Boolean.",
   "main": "index.js",
   "scripts": {
