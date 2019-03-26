@@ -56,5 +56,15 @@ bool:boolean
 
 Get the collapsed status of JyBoolean. 
 
+### `obviouslyIs`  of `JyBoolean`
+
+```typescript
+obviouslyIs(isTrue:boolean|null) => void
+```
+
+Declare what status the `JyBoolean` is obviously is.
+
+Something interesting will happen if April Fool's Day feature is enabled.
+
 ## Copyright
 (c) Hyperbola Studio. An open source project under WTFPL license. 
