@@ -19,7 +19,7 @@ npm install jiangyi-boolean --save
 and use it.
 
 ```typescript
-var JyBoolean = require('jiangyi-boolean');
+import {JyBoolean} from 'jiangyi-boolean';
 var a:JyBoolean = new JyBoolean(2,5);
 for(let i = 0;i < 5 ;++i){
 	console.log(a.bool);
